@@ -47,7 +47,7 @@ Frictionless allows merchants and developers to easily accept payments through S
 Frictionless operates behind the scenes for a smooth payment experience. No additional setup is required for users with compatible Solana wallets.
 
 ## Resources
-
+- Videos: [Frictionless Video](https://drive.google.com/file/d/1oOll-vLnRsmHsoxgeQTnNzBjIXiUZDGh/view?usp=sharing)
 - Solana Pay Documentation: [https://docs.solanapay.com/](https://docs.solanapay.com/)
 - Solana Developer Docs: [https://docs.solana.com/](https://docs.solana.com/)
 - Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
